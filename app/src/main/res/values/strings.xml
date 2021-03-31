@@ -3,7 +3,7 @@
     <string name="key_name">name</string>
     <string name="signal_from_mars_cover_image">Signal From Mars Cover Image</string>
     <string name="startButton">START YOUR ADVENTURE</string>
-    <string name="name_hint">Enter Your Name</string>
+    <string name="name_hint">ENTER YOUR NAME</string>
 
     <string name="page0">On your return trip from studying Saturn\'s rings, you hear a distress signal that seems to be coming from the surface of Mars. It\'s strange because there hasn\'t been a colony there in years. Even stranger, it\'s calling you by name: \"Help me, %1$s, you\'re my only hope.\</string>
     <string name="page0_choice1">Stop and investigate</string>
